@@ -1,10 +1,10 @@
-fruits=['orange','mango', 'banana', 'strawberry', 'Guava']
+fruits=['orange','mango', 'banana', 'strawberry', 'Guava', 'Grapes']
 
 #iteration
 #For loop
 
 for fruit in fruits:
-    if fruit =='Guava':
-        print('Guava Paiche')
+    if fruit =='Grapes':
+        print('Grapes Paiche')
     else :
         print('painai')
